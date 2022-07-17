@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1658081558,,"wq!"
 :wq1
 |2,0,1658081076,,"wq1"
-:wq!
-|2,0,1658080790,,"wq!"
 :WQ!
 |2,0,1657650807,,"WQ!"
 
@@ -32,30 +32,46 @@
 |3,1,36,0,1,0,1657650751,"E"
 
 # File marks:
-'0  1  28  ~/healthcare2.txt
-|4,48,1,28,1658081076,"~/healthcare2.txt"
-'1  1  28  ~/healthcare2.txt
-|4,49,1,28,1658080790,"~/healthcare2.txt"
-'2  1  18  ~/healthcare/project.txt
-|4,50,1,18,1658078180,"~/healthcare/project.txt"
-'3  5  0  ~/rajarani/shannu
-|4,51,5,0,1657818327,"~/rajarani/shannu"
-'4  3  0  ~/rajarani/shannu.txt
-|4,52,3,0,1657816406,"~/rajarani/shannu.txt"
-'5  2  0  ~/healthcare/kiran.txt
-|4,53,2,0,1657705550,"~/healthcare/kiran.txt"
-'6  1  24  ~/gtp_andro/devops.txt
-|4,54,1,24,1657704577,"~/gtp_andro/devops.txt"
-'7  8  15  ~/first-iks/kumar.txt
-|4,55,8,15,1657650823,"~/first-iks/kumar.txt"
-'8  4  0  ~/369/369/kumar.txt
-|4,56,4,0,1657650064,"~/369/369/kumar.txt"
-'9  4  0  ~/369/kiran.txt
-|4,57,4,0,1657649870,"~/369/kiran.txt"
+'0  1  18  ~/project.txt
+|4,48,1,18,1658081558,"~/project.txt"
+'1  1  18  ~/project.txt
+|4,49,1,18,1658081513,"~/project.txt"
+'2  1  28  ~/healthcare2.txt
+|4,50,1,28,1658081076,"~/healthcare2.txt"
+'3  1  28  ~/healthcare2.txt
+|4,51,1,28,1658080790,"~/healthcare2.txt"
+'4  1  18  ~/healthcare/project.txt
+|4,52,1,18,1658078180,"~/healthcare/project.txt"
+'5  5  0  ~/rajarani/shannu
+|4,53,5,0,1657818327,"~/rajarani/shannu"
+'6  3  0  ~/rajarani/shannu.txt
+|4,54,3,0,1657816406,"~/rajarani/shannu.txt"
+'7  2  0  ~/healthcare/kiran.txt
+|4,55,2,0,1657705550,"~/healthcare/kiran.txt"
+'8  1  24  ~/gtp_andro/devops.txt
+|4,56,1,24,1657704577,"~/gtp_andro/devops.txt"
+'9  8  15  ~/first-iks/kumar.txt
+|4,57,8,15,1657650823,"~/first-iks/kumar.txt"
 
 # Jumplist (newest first):
+-'  1  18  ~/project.txt
+|4,39,1,18,1658081558,"~/project.txt"
+-'  1  18  ~/project.txt
+|4,39,1,18,1658081513,"~/project.txt"
 -'  1  28  ~/healthcare2.txt
 |4,39,1,28,1658081076,"~/healthcare2.txt"
+-'  1  28  ~/healthcare2.txt
+|4,39,1,28,1658081076,"~/healthcare2.txt"
+-'  1  28  ~/healthcare2.txt
+|4,39,1,28,1658081076,"~/healthcare2.txt"
+-'  1  28  ~/healthcare2.txt
+|4,39,1,28,1658081076,"~/healthcare2.txt"
+-'  1  28  ~/healthcare2.txt
+|4,39,1,28,1658080790,"~/healthcare2.txt"
+-'  1  28  ~/healthcare2.txt
+|4,39,1,28,1658080790,"~/healthcare2.txt"
+-'  1  28  ~/healthcare2.txt
+|4,39,1,28,1658080790,"~/healthcare2.txt"
 -'  1  28  ~/healthcare2.txt
 |4,39,1,28,1658080790,"~/healthcare2.txt"
 -'  1  18  ~/healthcare/project.txt
@@ -66,6 +82,30 @@
 |4,39,1,18,1658078180,"~/healthcare/project.txt"
 -'  1  18  ~/healthcare/project.txt
 |4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
+-'  1  18  ~/healthcare/project.txt
+|4,39,1,18,1658078180,"~/healthcare/project.txt"
 -'  5  0  ~/rajarani/shannu
 |4,39,5,0,1657818327,"~/rajarani/shannu"
 -'  5  0  ~/rajarani/shannu
@@ -82,6 +122,102 @@
 |4,39,5,0,1657818327,"~/rajarani/shannu"
 -'  5  0  ~/rajarani/shannu
 |4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  5  0  ~/rajarani/shannu
+|4,39,5,0,1657818327,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
+-'  1  0  ~/rajarani/shannu
+|4,39,1,0,1657818280,"~/rajarani/shannu"
 -'  1  0  ~/rajarani/shannu
 |4,39,1,0,1657818280,"~/rajarani/shannu"
 -'  1  0  ~/rajarani/shannu
@@ -118,144 +254,15 @@
 |4,39,3,0,1657816406,"~/rajarani/shannu.txt"
 -'  3  0  ~/rajarani/shannu.txt
 |4,39,3,0,1657816406,"~/rajarani/shannu.txt"
--'  3  0  ~/rajarani/shannu.txt
-|4,39,3,0,1657816406,"~/rajarani/shannu.txt"
--'  3  0  ~/rajarani/shannu.txt
-|4,39,3,0,1657816406,"~/rajarani/shannu.txt"
--'  3  0  ~/rajarani/shannu.txt
-|4,39,3,0,1657816406,"~/rajarani/shannu.txt"
--'  3  0  ~/rajarani/shannu.txt
-|4,39,3,0,1657816406,"~/rajarani/shannu.txt"
--'  3  0  ~/rajarani/shannu.txt
-|4,39,3,0,1657816406,"~/rajarani/shannu.txt"
--'  3  0  ~/rajarani/shannu.txt
-|4,39,3,0,1657816406,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  1  0  ~/rajarani/shannu.txt
-|4,39,1,0,1657816346,"~/rajarani/shannu.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  2  0  ~/healthcare/kiran.txt
-|4,39,2,0,1657705550,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
--'  1  0  ~/healthcare/kiran.txt
-|4,39,1,0,1657705492,"~/healthcare/kiran.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/project.txt
+	*	1658081551	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
 
 > ~/healthcare2.txt
 	*	1658081072	0
